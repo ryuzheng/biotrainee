@@ -305,3 +305,10 @@ $RECYCLE.BIN/
 
 # compress file
 *.txt.gz
+*.gz
+Homework2-hg19/hg19.fa
+Homework3-gtf/FTP Download.mhtml
+*.mhtml
+*.tar
+Homework4-table/merge_table.txt
+*.tar
